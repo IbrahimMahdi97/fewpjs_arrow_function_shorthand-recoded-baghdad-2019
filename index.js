@@ -5,3 +5,7 @@ let divide = function() {
 let square = (number) => {
   return number*number;
 }
+
+let add = (no1, no2) => {
+  
+}
